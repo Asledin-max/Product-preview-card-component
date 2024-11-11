@@ -14,14 +14,14 @@ body {
 }
 .contanier {
   width: 600px;
-  height: 460px;
+  height: 500px;
   background-color: #fff;
   border-radius: 20px;
   display: flex;
 }
 .left {
   width: 300px;
-  height: 460px;
+  height: 500px;
   display: flex;
   align-items: center;
   border-radius: 20px 0 0 20px;
